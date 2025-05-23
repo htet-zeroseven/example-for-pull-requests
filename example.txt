@@ -1,1 +1,1 @@
-example.txt file adding on GitHub
+CONFLICTING CHANGE
