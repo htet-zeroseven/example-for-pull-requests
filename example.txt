@@ -1,2 +1,1 @@
-example.txt file adding on GitHub
-on main branch an extra commit for a conflict
+CONFLICTING CHANGE
